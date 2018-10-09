@@ -1,7 +1,6 @@
 # Kaggle House Price Prediction
 # Mixed data PCA
-# Xueji Wang 
-dataIn = read.csv("/Users/xuejiwang/Documents/3_My_UNC_Charlotte/2018Spring/STAT_7133/Project/Data_HousePrice/train.csv")
+dataIn = read.csv("Project/Data_HousePrice/train.csv")
 str(dataIn)
 head(dataIn)
 dim(dataIn)
